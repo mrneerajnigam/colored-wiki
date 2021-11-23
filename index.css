@@ -1,0 +1,33 @@
+body{
+    font-family: tahoma;
+    margin-left: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 90%;
+}
+
+#wiki{
+    font-weight: 700;
+    /* font-size: 110%; */
+    font-size: 19px;
+   
+}
+#le{
+    font-size:80%;
+    margin-top: -15px;
+}
+.cr{
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.classlink{
+    margin-left: 0px;
+}
+/* Class Link
+ */
+
+
+a{
+    text-decoration: none;
+    color: blue;
+}
